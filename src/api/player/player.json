@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Sumit Upadhyay",
+    "position": "midfielder",
+    "playerSkills": [
+      {
+        "skill": "defense",
+        "value": 60
+      },
+      {
+        "skill": "speed",
+        "value": 80
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Sumit Upadhyay 2",
+    "position": "midfielder",
+    "playerSkills": [
+      {
+        "skill": "defense",
+        "value": 60
+      },
+      {
+        "skill": "speed",
+        "value": 80
+      }
+    ]
+  },
+  {
+    "name": "Sumit Upadhyay 2",
+    "position": "midfielder",
+    "playerSkills": [
+      {
+        "skill": "defense",
+        "value": 60
+      },
+      {
+        "skill": "speed",
+        "value": 80
+      }
+    ]
+  }
+]
